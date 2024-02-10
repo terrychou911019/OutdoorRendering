@@ -24,6 +24,7 @@ git clone https://github.com/terrychou911019/OutdoorRendering.git
 Execute *"Rendering_Framework.exe"* under the *"Rendering_Framework"* folder.
 
 **Camera View**
+
 ![alt text](image.png)
 
 The left side of the screen is the god view, while the right side is the player view.
