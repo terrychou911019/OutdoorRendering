@@ -1,0 +1,27 @@
+﻿  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_glfw.cpp
+C:\Users\user\OneDrive - NTHU\大三上\繪圖程式設計與應用\Assignment 3\110062334_AS3\externals\include\imgui\imgui_impl_glfw.cpp(65,10): fatal error C1083: 無法開啟包含檔案: 'GLFW/glfw3.h': No such file or directory
+  imgui_impl_opengl3.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  main2.cpp
+C:\Users\user\OneDrive - NTHU\大三上\繪圖程式設計與應用\Assignment 3\110062334_AS3\Rendering_Framework\src\RenderWidgets\RenderingOrderExp.h(5,10): fatal error C1083: 無法開啟包含檔案: 'Rendering_Framework/src/Rendering/RendererBase.h': No such file or directory
+  Camera.cpp
+C:\Users\user\OneDrive - NTHU\大三上\繪圖程式設計與應用\Assignment 3\110062334_AS3\Rendering_Framework\src\Rendering\Camera\Camera.h(3,10): fatal error C1083: 無法開啟包含檔案: 'glm\mat4x4.hpp': No such file or directory
+  RendererBase.cpp
+C:\Users\user\OneDrive - NTHU\大三上\繪圖程式設計與應用\Assignment 3\110062334_AS3\Rendering_Framework\src\Rendering\RendererBase.h(3,10): fatal error C1083: 無法開啟包含檔案: 'glad/glad.h': No such file or directory
+  Shader.cpp
+C:\Users\user\OneDrive - NTHU\大三上\繪圖程式設計與應用\Assignment 3\110062334_AS3\Rendering_Framework\src\Rendering\Shader.h(4,10): fatal error C1083: 無法開啟包含檔案: 'glad/glad.h': No such file or directory
+  RenderingOrderExp.cpp
+C:\Users\user\OneDrive - NTHU\大三上\繪圖程式設計與應用\Assignment 3\110062334_AS3\Rendering_Framework\src\RenderWidgets\RenderingOrderExp.h(5,10): fatal error C1083: 無法開啟包含檔案: 'Rendering_Framework/src/Rendering/RendererBase.h': No such file or directory
+  RFoliages.cpp
+C:\Users\user\OneDrive - NTHU\大三上\繪圖程式設計與應用\Assignment 3\110062334_AS3\Rendering_Framework\src\Scene\RFoliages.h(4,10): fatal error C1083: 無法開啟包含檔案: 'glad/glad.h': No such file or directory
+  RSlime.cpp
+C:\Users\user\OneDrive - NTHU\大三上\繪圖程式設計與應用\Assignment 3\110062334_AS3\Rendering_Framework\src\Scene\RSlime.h(3,10): fatal error C1083: 無法開啟包含檔案: 'glad/glad.h': No such file or directory
+  RHorizonGround.cpp
+C:\Users\user\OneDrive - NTHU\大三上\繪圖程式設計與應用\Assignment 3\110062334_AS3\Rendering_Framework\src\Scene\RHorizonGround.h(3,10): fatal error C1083: 無法開啟包含檔案: 'glad/glad.h': No such file or directory
+  RViewFrustum.cpp
+C:\Users\user\OneDrive - NTHU\大三上\繪圖程式設計與應用\Assignment 3\110062334_AS3\Rendering_Framework\src\Scene\RViewFrustum.h(3,10): fatal error C1083: 無法開啟包含檔案: 'Rendering_Framework/src/Rendering/Camera/Camera.h': No such file or directory
+  正在產生程式碼...
